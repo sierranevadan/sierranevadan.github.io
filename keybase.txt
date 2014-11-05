@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/grantkelly
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://grant-kelly.com
+  * I am grantkelly (https://keybase.io/grantkelly) on keybase.
+  * I have a public key with fingerprint E26B 4DEC 404E 44FC 60A1  FA39 A0BB C5B6 EA86 785E
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "e26b4dec404e44fc60a1fa39a0bbc5b6ea86785e",
+            "host": "keybase.io",
+            "key_id": "a0bbc5b6ea86785e",
+            "uid": "922f8b9c0b87235f4490d73a80772100",
+            "username": "grantkelly"
+        },
+        "service": {
+            "hostname": "grant-kelly.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1415163837,
+    "expire_in": 157680000,
+    "prev": "927fcfca0d9e26ffd7981c161fc3b48aaf3ed374c6232f3cdaaa50a65cf8ac3c",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.1.3
+Comment: https://keybase.io/crypto
+
+yMHqAnicO8LLzMDFmLUjdnPKylO7GU8f+FbKEBK5fm+1UlJ+SqWSVbVSdiqYSsvM
+S08tKijKzCtRslJKNTJLMklJTTYxMEk1MUlLNjNINExLNLZMNEhKSjZNMktNtDAz
+tzBNVdJRysgvBukAGpOUWJyql5kPFANy4jNTgKJY1JeCJSyNjNIskiyTDZIszI2M
+TdNMTCwNUsyNEy0MzM2NDA0MQAqLU4vyEnNTgarTixLzSrJTc3IqlWp1lIDiZZnJ
+qSBXgyxHVqMLVqSXnJ8LNKCgKL8kPzk/ByiZUVJSYAXSW1JZAFJcnpoUDzUmPikz
+LwXoeaCGstSi4sz8PCUrQ6DK5JJMkLmGJoamhmbGFsbmOkqpFQWZRanxmSAVpuZm
+FgZAALImtQzsI/O05LTkRIMUS2DopaWlmFtaGCYbmhmmJRsnmVgkJqYZp6YYm5sk
+mxkZG6UZJ6ckJiaaGiSamSanWSQmGycrgTxWmJevZGUKdGZiOtDI4sz0vMSS0qJU
+pdpDB2JYGBi5GNhYmUDRx8DFKQCL1NarHAwHD4Ye32vPEzTh7hu1wrLeByxq308q
+XJ7ScLq9VfL3JKl519IS31/aM/eXdt07ByHJfW1vGnY0S4ebFs1QedAmKf5HetHW
+m/adf6p7BQTmxhiWvVg+t/DuBrGQ1J6UsvsehsX3XhZk7FzuG/Vk08a+Z+HT1Q75
+WvTJ2UYt2RrAw/Jx+5OkfnGvyRl5W6f8PuMeIWF9UPlr/ydH57fm++NDbbmYHgau
+OMD9+djJbddEF7CmOhtPkVlpbPhI6q8jw02DP+0r+v9G1ARKbY15qjLTX+Z52+qT
+7v/Njjgvq+7fcGbhY5ZFURxObpM03ihqKuYxbWNhnmH6oH1jnKodf8irUq900Y6w
+Y29/MkUdewAAhLsY6A==
+=7ZVc
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/grantkelly
+
+==================================================================
+
